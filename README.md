@@ -129,6 +129,26 @@
     </tr>
   </tbody>
 </table>
+<!--Education-->
+<h2>🎓 Education</h2>
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+
+  <!-- Card 1 -->
+  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 300px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    <h3>Master of Science in Information Systems</h3>
+    <p>Binghamton University, State University of New York</p>
+    <p style="color: gray;">2023 - 2025</p>
+  </div>
+
+  <!-- Card 2 -->
+  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 300px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    <h3>Bachelor of Engineering in Computer Science</h3>
+    <p>Cambridge Institute of Technology, Bangalore</p>
+    <p style="color: gray;">2017 - 2021</p>
+  </div>
+
+</div>
 
 <br>
 <h3 align="left">Connect with me:</h3>
