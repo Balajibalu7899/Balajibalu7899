@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 <h1 align="center">Hi there 👋, I'm Balaji</h1>
-<h3 align="center">A full-stack developer with expertise in building responsive front-end interfaces, robust back-end systems, and efficient DevOps practices to deliver seamless, scalable solutions.</h3>
+<h3 align="center">A New York-based full-stack developer specializing in responsive front-ends, robust back-ends, and scalable DevOps solutions</h3>
 
 <table style="border: 1px solid rgba(0, 0, 0, 0.1); border-radius: 10px; background-color: #f9f9f9; padding: 20px;">
   <tr>
