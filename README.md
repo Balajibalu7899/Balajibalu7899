@@ -3,25 +3,24 @@
 <h1 align="center">Hi there 👋, I'm Balaji</h1>
 <h3 align="center">A full-stack developer with expertise in building responsive front-end interfaces, robust back-end systems, and efficient DevOps practices to deliver seamless, scalable solutions.</h3>
 
-<div style="display: flex; align-items: flex-start; flex-direction: row;">
+<table>
+  <tr>
+    <td style="vertical-align: top; padding-right: 20px;">
+      <ul style="list-style: none; padding: 0; margin: 0;">
+        <li>🔭 I’m currently <strong>Doing Masters at State University of New York at Binghamton</strong></li>
+        <li>👯 I’m looking to collaborate on <strong>Any web development projects using React</strong></li>
+        <li>👨‍💻 All of my projects are available at <a href="https://github.com/Balajibalu7899?tab=repositories" target="_blank">GitHub</a></li>
+        <li>📫 How to reach me <strong>balajigv.inbox@gmail.com</strong></li>
+        <li>⚡<strong>I love experimenting with new technologies and tools, always on the lookout for ways to improve my development workflow.</strong></li>
+      </ul>
+    </td>
+    <td style="vertical-align: top;">
+      <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" 
+           alt="Coder GIF" width="300">
+    </td>
+  </tr>
+</table>
 
-  <!-- Left Side: List Content -->
-  <div style="flex: 1;">
-    <ul style="list-style: none; padding: 0; margin: 0;">
-      <li>🔭 I’m currently <strong>Doing Masters at State University of New York at Binghamton</strong></li>
-      <li>👯 I’m looking to collaborate on <strong>Any web development projects using React</strong></li>
-      <li>👨‍💻 All of my projects are available at <strong>https://github.com/Balajibalu7899?tab=repositories</strong></li>
-      <li>📫 How to reach me <strong>balajigv.inbox@gmail.com</strong></li>
-      <li>⚡ Fun fact <strong>I love experimenting with new technologies and tools, always on the lookout for ways to improve my development workflow.</strong></li>
-    </ul>
-  </div>
-  <!-- Right Side: GIF -->
-  <div style="flex: 0 0 300px; margin-left: 20px;">
-    <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" 
-         alt="Coder GIF" width="300">
-  </div>
-
-</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <!-- Front-End -->
