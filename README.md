@@ -22,7 +22,7 @@
 </table>
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Teach Stack</h3>
 <!-- Front-End -->
 <h3>Front-End</h3>
 <p>
