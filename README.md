@@ -129,36 +129,6 @@
     </tr>
   </tbody>
 </table>
-<!--Education-->
-<h2>🎓 Education</h2>
-
-<ul style="list-style-type: none; padding: 0;">
-  <li>
-    <div style="display: flex; align-items: center; margin-bottom: 20px;">
-      <div style="flex: 0 0 50px; text-align: center;">
-        🎓
-      </div>
-      <div>
-        <h3 style="margin: 0;">Master of Science in Information Systems</h3>
-        <p style="margin: 0;">Binghamton University, State University of New York</p>
-        <p style="margin: 0; color: gray;">2023 - 2025</p>
-      </div>
-    </div>
-  </li>
-  <li>
-    <div style="display: flex; align-items: center; margin-bottom: 20px;">
-      <div style="flex: 0 0 50px; text-align: center;">
-        🎓
-      </div>
-      <div>
-        <h3 style="margin: 0;">Bachelor of Engineering in Computer Science</h3>
-        <p style="margin: 0;">Cambridge Institute of Technology, Bangalore</p>
-        <p style="margin: 0; color: gray;">2017 - 2021</p>
-      </div>
-    </div>
-  </li>
-</ul>
-
 
 <br>
 <h3 align="left">Connect with me:</h3>
