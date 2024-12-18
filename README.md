@@ -23,7 +23,6 @@
 
 
 <h3 align="left">Teach Stack</h3>
-<hr>
 <table>
   <thead>
     <tr>
