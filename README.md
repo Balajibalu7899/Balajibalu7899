@@ -3,10 +3,10 @@
 <h1 align="center">Hi there 👋, I'm Balaji</h1>
 <h3 align="center">A full-stack developer with expertise in building responsive front-end interfaces, robust back-end systems, and efficient DevOps practices to deliver seamless, scalable solutions.</h3>
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: flex-start;">
 
   <!-- Left Side: List Content -->
-  <div style="flex: 1; padding-right: 20px;">
+  <div style="flex: 1;">
     <ul>
       <li>🔭 I’m currently <strong>Doing Masters at State University of New York at Binghamton</strong></li>
       <li>🌱 I’m currently learning <strong>React</strong></li>
@@ -20,12 +20,13 @@
   </div>
 
   <!-- Right Side: GIF -->
-  <div style="flex: 0 0 250px; text-align: center;">
+  <div style="flex: 0 0 300px; margin-left: 20px;">
     <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" 
-         alt="Coder GIF" width="250">
+         alt="Coder GIF" width="300">
   </div>
 
 </div>
+
 
 
 
