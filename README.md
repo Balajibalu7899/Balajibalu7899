@@ -20,8 +20,9 @@
     </td>
   </tr>
 </table>
-
-
+<br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=balajibalu7899" alt="balajibalu7899" /></a> </p>
+<br>
 <h3 align="left">Teach Stack</h3>
 <table>
   <thead>
@@ -138,5 +139,3 @@
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balajibalu7899&label=Profile%20views&color=0e75b6&style=flat" alt="balajibalu7899" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=balajibalu7899" alt="balajibalu7899" /></a> </p>
