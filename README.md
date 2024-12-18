@@ -137,5 +137,3 @@
   <a href="https://linkedin.com/in/balaji-g-v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="balaji g v" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/b03js7899gv_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="b03js7899gv_21" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
 </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=balajibalu7899&label=Profile%20views&color=0e75b6&style=flat" alt="balajibalu7899" /> </p>
