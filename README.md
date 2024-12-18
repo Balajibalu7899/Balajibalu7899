@@ -9,12 +9,9 @@
   <div style="flex: 1;">
     <ul style="list-style: none; padding: 0; margin: 0;">
       <li>🔭 I’m currently <strong>Doing Masters at State University of New York at Binghamton</strong></li>
-      <li>🌱 I’m currently learning <strong>React</strong></li>
       <li>👯 I’m looking to collaborate on <strong>Any web development projects using React</strong></li>
       <li>👨‍💻 All of my projects are available at <strong>https://github.com/Balajibalu7899?tab=repositories</strong></li>
-      <li>💬 Ask me about <strong>Front-End, Back-End, and DevOps</strong></li>
       <li>📫 How to reach me <strong>balajigv.inbox@gmail.com</strong></li>
-      <li>📄 Know about my experiences <a href="#">[I’ll add resume here...]</a></li>
       <li>⚡ Fun fact <strong>I love experimenting with new technologies and tools, always on the lookout for ways to improve my development workflow.</strong></li>
     </ul>
   </div>
