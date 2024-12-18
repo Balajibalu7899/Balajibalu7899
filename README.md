@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-<h1 align="center">Hi there 👋, I'm Balaji</h1>
+<h1 align="center">Hi there 👋, I'm Balaji Gollapalli Venkataswamy Reddy</h1>
 <h3 align="center">A New York-based full-stack developer specializing in responsive front-ends, robust back-ends, and scalable DevOps solutions</h3>
 
 <table style="border: 1px solid rgba(0, 0, 0, 0.1); border-radius: 10px; background-color: #f9f9f9; padding: 20px;">
@@ -136,3 +136,7 @@
   <a href="https://linkedin.com/in/balaji-g-v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="balaji g v" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/b03js7899gv_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="b03js7899gv_21" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=balajibalu7899&label=Profile%20views&color=0e75b6&style=flat" alt="balajibalu7899" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=balajibalu7899" alt="balajibalu7899" /></a> </p>
