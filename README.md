@@ -10,6 +10,7 @@
         <li>🔭 I’m Doing Masters at State University of New York at Binghamton</li>
         <li>👯 Looking for collaborate on Web Development projects using React</li>
         <li>👨‍💻 Have a look at my Projects at: https://github.com/Balajibalu7899?tab=repositories</li>
+        <li>💬 Ask me about: React, NodeJs, ExpressJS,Kubernetes,Aws,Firebase</li>
         <li>📫 Mail Me at: <strong>balajigv.inbox@gmail.com</strong></li>
         <li>⚡I love experimenting with new technologies and tools, always on the lookout for ways to improve my development workflow.</li>
       </ul>
