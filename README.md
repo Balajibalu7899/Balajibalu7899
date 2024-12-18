@@ -11,12 +11,8 @@
 - 📫 How to reach me: **balajigv.inbox@gmail.com**
 - 📄 Know about my experiences: [Resume Link](Ill Add resume here.........)
 - ⚡ Fun fact: **I love experimenting with new technologies and tools, always on the lookout for ways to improve my development workflow.**
-<img alt="Coder GIF" height="250" width="350" style="float: right;" src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/balaji-g-v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="balaji g v" height="30" width="40" /></a>
-  <a href="https://instagram.com/b03js7899gv_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="b03js7899gv_21" height="30" width="40" /></a>
-</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Coder GIF" width="250" height="250" style="float: right; margin-left: 15px;" />
 
 <h3 align="left">Languages and Tools:</h3>
 <!-- Front-End -->
@@ -85,4 +81,10 @@
   <a href="https://grafana.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
   </a>
+</p>
+<br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/balaji-g-v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="balaji g v" height="30" width="40" /></a>
+  <a href="https://instagram.com/b03js7899gv_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="b03js7899gv_21" height="30" width="40" /></a>
 </p>
