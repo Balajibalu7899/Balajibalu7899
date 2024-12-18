@@ -3,7 +3,7 @@
 <h1 align="center">Hi there 👋, I'm Balaji</h1>
 <h3 align="center">A full-stack developer with expertise in building responsive front-end interfaces, robust back-end systems, and efficient DevOps practices to deliver seamless, scalable solutions.</h3>
 
-<table>
+<table style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); border-collapse: separate; border-spacing: 10px; padding: 10px;">
   <tr>
     <td style="vertical-align: top; padding-right: 20px;">
       <ul style="list-style: none; padding: 0; margin: 0;">
