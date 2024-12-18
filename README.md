@@ -5,37 +5,24 @@
 
 <div style="display: flex; align-items: center;">
 
-  <!-- Left Side: Text -->
-  <div style="flex: 1;">
-
-  **🔭 I’m currently:**
-
-  Doing Masters at State University of New York at Binghamton
-
-  **👯 I’m looking to collaborate on:**
-
-  Any web development projects using React
-
-  **👨‍💻 All of my projects are available at:**
-
-  [GitHub](https://github.com/Balajibalu7899?tab=repositories)
-
-  **💬 Ask me about:**
-
-  Front-End, Back-End, and DevOps
-
-  **📫 How to reach me:**
-
-  [balajigv.inbox@gmail.com](mailto:balajigv.inbox@gmail.com)
-
-  **⚡ Fun fact:**
-
-  I love experimenting with new technologies and tools, always on the lookout for ways to improve my development workflow.
+  <!-- Left Side: List Content -->
+  <div style="flex: 1; padding-right: 20px;">
+    <ul>
+      <li>🔭 I’m currently <strong>Doing Masters at State University of New York at Binghamton</strong></li>
+      <li>🌱 I’m currently learning <strong>React</strong></li>
+      <li>👯 I’m looking to collaborate on <strong>Any web development projects using React</strong></li>
+      <li>👨‍💻 All of my projects are available at <a href="https://github.com/Balajibalu7899?tab=repositories" target="_blank">GitHub</a></li>
+      <li>💬 Ask me about <strong>Front-End, Back-End, and DevOps</strong></li>
+      <li>📫 How to reach me <strong>balajigv.inbox@gmail.com</strong></li>
+      <li>📄 Know about my experiences <a href="#">[I’ll add resume here...]</a></li>
+      <li>⚡ Fun fact <strong>I love experimenting with new technologies and tools, always on the lookout for ways to improve my development workflow.</strong></li>
+    </ul>
   </div>
 
   <!-- Right Side: GIF -->
   <div style="flex: 0 0 250px; text-align: center;">
-    <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Coder GIF" width="250">
+    <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" 
+         alt="Coder GIF" width="250">
   </div>
 
 </div>
