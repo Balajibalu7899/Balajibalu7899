@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Balaji G V</h1>
-<h3 align="center">I am a dynamic full-stack developer with expertise in building responsive front-end interfaces and robust back-end systems, combined with a solid foundation in DevOps practices. I thrive on crafting seamless user experiences, developing scalable server-side architectures, and implementing efficient CI/CD pipelines to ensure smooth and reliable deployments. My passion lies in creating end-to-end solutions that blend clean code, innovative design, and operational excellence.</h3>
+<h3 align="center">I'm a full-stack developer with expertise in building responsive front-end interfaces, robust back-end systems, and efficient DevOps practices to deliver seamless, scalable solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balajibalu7899&label=Profile%20views&color=0e75b6&style=flat" alt="balajibalu7899" /> </p>
 
