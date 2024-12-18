@@ -5,32 +5,41 @@
 
 <table>
     <tr>
+      <!-- Text Content -->
       <td>
-        <!-- Text content -->
-        🔭 **I’m currently:**  
-        Doing Masters at State University of New York at Binghamton  
+        <h3>🔭 I’m currently:</h3>
+        <p>Doing Masters at State University of New York at Binghamton</p>
   
-        👯 **I’m looking to collaborate on:**  
-        Any web development projects using React  
+        <h3>👯 I’m looking to collaborate on:</h3>
+        <p>Any web development projects using React</p>
   
-        👨‍💻 **All of my projects are available at:**  
-        [GitHub](https://github.com/Balajibalu7899?tab=repositories)  
+        <h3>👨‍💻 All of my projects are available at:</h3>
+        <p>
+          <a href="https://github.com/Balajibalu7899?tab=repositories" target="_blank">
+            GitHub
+          </a>
+        </p>
   
-        💬 **Ask me about:**  
-        Front-End, Back-End, and DevOps  
+        <h3>💬 Ask me about:</h3>
+        <p>Front-End, Back-End, and DevOps</p>
   
-        📫 **How to reach me:**  
-        [balajigv.inbox@gmail.com](mailto:balajigv.inbox@gmail.com)  
+        <h3>📫 How to reach me:</h3>
+        <p>
+          <a href="mailto:balajigv.inbox@gmail.com">balajigv.inbox@gmail.com</a>
+        </p>
   
-        ⚡ **Fun fact:**  
-        I love experimenting with new technologies and tools, always on the lookout for ways to improve my development workflow.
+        <h3>⚡ Fun fact:</h3>
+        <p>I love experimenting with new technologies and tools, always on the lookout for ways to improve my development workflow.</p>
       </td>
+  
+      <!-- Image -->
       <td>
         <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" 
              alt="Coder GIF" width="250" height="250">
       </td>
     </tr>
   </table>
+  
     
 <h3 align="left">Languages and Tools:</h3>
 <!-- Front-End -->
