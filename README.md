@@ -3,17 +3,24 @@
 <h1 align="center">Hi there 👋, I'm Balaji</h1>
 <h3 align="center">A full-stack developer with expertise in building responsive front-end interfaces, robust back-end systems, and efficient DevOps practices to deliver seamless, scalable solutions.</h3>
 
-- 🔭 I’m currently **Doing Masters at State University of New York at Binghamton**
-- 🌱 I’m currently learning **React**
-- 👯 I’m looking to collaborate on **Any web development projects using React**
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Balajibalu7899?tab=repositories)
-- 💬 Ask me about **Front-End, Back-End and DevOps**
-- 📫 How to reach me: **balajigv.inbox@gmail.com**
-- 📄 Know about my experiences: [Resume Link](Ill Add resume here.........)
-- ⚡ Fun fact: **I love experimenting with new technologies and tools, always on the lookout for ways to improve my development workflow.**
-
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Coder GIF" width="250" height="250" style="float: right; margin-left: 15px;" />
-
+<table>
+    <tr>
+      <td>
+        <!-- Text content -->
+        - 🔭 I’m currently **Doing Masters at State University of New York at Binghamton**  
+        - 👯 I’m looking to collaborate on **Any web development projects using React**  
+        - 👨‍💻 All of my projects are available at [GitHub](https://github.com/Balajibalu7899?tab=repositories)
+        - 💬 Ask me about **Front-End, Back-End and DevOps**  
+        - 📫 How to reach me:**balajigv.inbox@gmail.com**  
+        - ⚡ Fun fact: **I love experimenting with new technologies and tools, always on the lookout for ways to improve my development workflow.**
+      </td>
+      <td>
+        <!-- Image -->
+        <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Coder GIF" width="250" height="250">
+      </td>
+    </tr>
+  </table>
+  
 <h3 align="left">Languages and Tools:</h3>
 <!-- Front-End -->
 <h3>Front-End</h3>
@@ -64,7 +71,7 @@
 </p>
 
 <!-- Cloud & DevOps -->
-<h3>Cloud & DevOps</h3>
+<h3 style="color: #FF5733;">Cloud & DevOps</h3>
 <p>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
