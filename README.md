@@ -7,12 +7,12 @@
     <tr>
       <td>
         <!-- Text content -->
-        - 🔭 I’m currently **Doing Masters at State University of New York at Binghamton**  
-        - 👯 I’m looking to collaborate on **Any web development projects using React**  
-        - 👨‍💻 All of my projects are available at [GitHub](https://github.com/Balajibalu7899?tab=repositories)
-        - 💬 Ask me about **Front-End, Back-End and DevOps**  
-        - 📫 How to reach me:**balajigv.inbox@gmail.com**  
-        - ⚡ Fun fact: **I love experimenting with new technologies and tools, always on the lookout for ways to improve my development workflow.**
+        <h3>🔭 I’m currently:</h3> Doing Masters at State University of New York at Binghamton<br>
+        <h3>👯 I’m looking to collaborate on:</h3>Any web development projects using React<br>
+        <h3>👨‍💻 All of my projects are available at</h3> [GitHub](https://github.com/Balajibalu7899?tab=repositories)<br>
+        <h3>💬 Ask me about:</h3> Front-End, Back-End and DevOps<br>
+        <h3>📫 How to reach me:</h3> balajigv.inbox@gmail.com<br>
+        <h3>⚡ Fun fact:</h3> I love experimenting with new technologies and tools, always on the lookout for ways to improve my development workflow.<br>
       </td>
       <td>
         <!-- Image -->
