@@ -8,9 +8,9 @@
     <td style="vertical-align: top; padding-right: 20px;">
       <ul style="list-style: none; padding: 0; margin: 0;">
         <li>🔭 I’m currently <strong>Doing Masters at State University of New York at Binghamton</strong></li>
-        <li>👯 I’m looking to collaborate on <strong>Any web development projects using React</strong></li>
-        <li>👨‍💻 All of my projects are available at <a href="https://github.com/Balajibalu7899?tab=repositories" target="_blank">GitHub</a></li>
-        <li>📫 How to reach me <strong>balajigv.inbox@gmail.com</strong></li>
+        <li>👯 I’m looking to collaborate on <strong>Web Development projects using React</strong></li>
+        <li>👨‍💻 Have a look at my Projects at: <strong>https://github.com/Balajibalu7899?tab=repositories</strong></li>
+        <li>📫 Mail Me at: <strong>balajigv.inbox@gmail.com</strong></li>
         <li>⚡<strong>I love experimenting with new technologies and tools, always on the lookout for ways to improve my development workflow.</strong></li>
       </ul>
     </td>
