@@ -11,7 +11,7 @@
 - 📫 How to reach me: **balajigv.inbox@gmail.com**
 - 📄 Know about my experiences: [Resume Link](Ill Add resume here.........)
 - ⚡ Fun fact: **I love experimenting with new technologies and tools, always on the lookout for ways to improve my development workflow.**
-<img alt="Coder GIF" height=250 width=350 align = "right" src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
+<img alt="Coder GIF" height="250" width="350" style="float: right;" src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/balaji-g-v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="balaji g v" height="30" width="40" /></a>
