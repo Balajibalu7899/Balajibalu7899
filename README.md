@@ -129,6 +129,16 @@
         </a>
       </td>
     </tr>
+    <tr>
+      <td>
+        <a href="[https://grafana.com](https://docs.flutter.dev/get-started/install)" target="_blank" rel="noreferrer">
+          <img alt="Static Badge" src="https://img.shields.io/badge/flutter-white?style=for-the-badge&logo=flutter&logoColor=white&logoSize=auto&labelColor=%2302569B&color=%2302569B">
+        </a>
+      </td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
   </tbody>
 </table>
 
