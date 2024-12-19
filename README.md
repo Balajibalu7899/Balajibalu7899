@@ -118,7 +118,7 @@
     <tr>
       <td>
         <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+          <img alt="Static Badge" src="https://img.shields.io/badge/sass-white?style=for-the-badge&logo=sass&logoColor=white&logoSize=auto&labelColor=%23CC6699&color=%23CC6699">
         </a>
       </td>
       <td></td>
