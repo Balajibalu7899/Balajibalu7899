@@ -25,6 +25,20 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=balajibalu7899" alt="balajibalu7899" /></a> </p>
 <br>
 <h3 align="left">Teach Stack</h3>
+<!--UI-->
+<h2>UI/UX</h2>
+<a href="https://developer.adobe.com/xd/uxp/develop/tutorials/" target="_blank" rel="noreferrer">
+  <img alt="Static Badge" src="https://img.shields.io/badge/adobexd-white?style=for-the-badge&logo=adobexd&logoColor=white&logoSize=auto&labelColor=%23FF61F6&color=%23FF61F6">
+</a>
+<a href="https://help.figma.com/hc/en-us/categories/360002051613-Get-started" target="_blank" rel="noreferrer">
+  <img alt="Static Badge" src="https://img.shields.io/badge/figma-white?style=for-the-badge&logo=figma&logoColor=white&logoSize=auto&labelColor=%23F24E1E&color=%23F24E1E">
+</a>
+<a href="https://developer.adobe.com/xd/uxp/develop/tutorials/" target="_blank" rel="noreferrer">
+  <img alt="Static Badge" src="https://img.shields.io/badge/illustrator-white?style=for-the-badge&logo=adobeillustrator&logoColor=white&logoSize=auto&labelColor=%23FF9A00&color=%23FF9A00">
+</a>
+<a href="https://help.rive.app/runtimes/overview/react" target="_blank" rel="noreferrer">
+  <img alt="Static Badge" src="https://img.shields.io/badge/rive-white?style=for-the-badge&logo=rive&logoColor=white&logoSize=auto&labelColor=%231D1D1D&color=%231D1D1D">
+</a>
 <!--Front-End-->
 <h2>Front-End</h2>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
@@ -57,7 +71,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/python-white?style=for-the-badge&logo=python&logoColor=white&logoSize=auto&labelColor=%233776AB&color=%233776AB">
 </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+          <img alt="Static Badge" src="https://img.shields.io/badge/java-white?style=for-the-badge&logo=openjdk&logoColor=white&logoSize=auto&labelColor=%23000000&color=%23000000">
 </a>
 <!--DataBase-->
 <h2>Databases</h2>
@@ -84,7 +98,7 @@
 <!--CI-CD-->
 <h2>CI & CD</h2>
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
+          <img alt="Static Badge" src="https://img.shields.io/badge/jenkins-white?style=for-the-badge&logo=jenkins&logoColor=white&logoSize=auto&labelColor=%23D24939&color=%23D24939">
 </a>
 <a href="https://docs.github.com/en/actions" target="_blank" rel="noreferrer">
   <img alt="Static Badge" src="https://img.shields.io/badge/githubactions-white?style=for-the-badge&logo=githubactions&logoColor=white&logoSize=auto&labelColor=%232088FF&color=%232088FF">
@@ -113,13 +127,19 @@
 <a href="https://grafana.com" target="_blank" rel="noreferrer">
           <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
 </a>
-
+<a href="https://prometheus.io/docs/introduction/overview/" target="_blank" rel="noreferrer">
+          <img alt="Static Badge" src="https://img.shields.io/badge/prometheus-white?style=for-the-badge&logo=prometheus&logoColor=white&logoSize=auto&labelColor=%23E6522C&color=%23E6522C">
+</a>
+<a href="https://docs.newrelic.com/" target="_blank" rel="noreferrer">
+         <img alt="Static Badge" src="https://img.shields.io/badge/newrelic-white?style=for-the-badge&logo=newrelic&logoColor=white&logoSize=auto&labelColor=%231CE783&color=%231CE783">
+</a>
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/balaji-g-v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="balaji g v" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/b03js7899gv_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="b03js7899gv_21" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/balaji-g-v" target="blank">
+    <img alt="Static Badge" src="https://img.shields.io/badge/linkdin-white?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=auto&labelColor=%230A66C2&color=%230A66C2">
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:balajigv.inbox@gmail.com" target="_blank">
-    <img align="center" src="" alt="Gmail" height="30" width="40" />
+    <img alt="Static Badge" src="https://img.shields.io/badge/gmail-white?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto&labelColor=%23EA4335&color=%23EA4335">
   </a>
 </p>
