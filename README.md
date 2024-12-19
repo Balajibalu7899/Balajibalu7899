@@ -24,9 +24,9 @@
 <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=balajibalu7899" alt="balajibalu7899" /></a> </p>
 <br>
-<h3 align="left">Teach Stack</h3>
+<h2 align="left">Teach Stack</h2>
 <!--UI-->
-<h2>UI/UX</h2>
+<h3>UI/UX</h3>
 <a href="https://developer.adobe.com/xd/uxp/develop/tutorials/" target="_blank" rel="noreferrer">
   <img alt="Static Badge" src="https://img.shields.io/badge/adobexd-white?style=for-the-badge&logo=adobexd&logoColor=white&logoSize=auto&labelColor=%23FF61F6&color=%23FF61F6">
 </a>
@@ -40,7 +40,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/rive-white?style=for-the-badge&logo=rive&logoColor=white&logoSize=auto&labelColor=%231D1D1D&color=%231D1D1D">
 </a>
 <!--Front-End-->
-<h2>Front-End</h2>
+<h3>Front-End</h3>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
           <img alt="Static Badge" src="https://img.shields.io/badge/css-white?style=for-the-badge&logo=css3&logoColor=white&logoSize=auto&labelColor=%231572B6&color=%231572B6">
 </a>
@@ -60,7 +60,7 @@
           <img alt="Static Badge" src="https://img.shields.io/badge/flutter-white?style=for-the-badge&logo=flutter&logoColor=white&logoSize=auto&labelColor=%2302569B&color=%2302569B">
 </a>
 <!--Back-End-->
-<h2>Back-End</h2>
+<h3>Back-End</h3>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
           <img alt="Static Badge" src="https://img.shields.io/badge/node-white?style=for-the-badge&logo=nodedotjs&logoColor=white&logoSize=auto&labelColor=%235FA04E&color=%235FA04E">
 </a>
@@ -74,7 +74,7 @@
           <img alt="Static Badge" src="https://img.shields.io/badge/java-white?style=for-the-badge&logo=openjdk&logoColor=white&logoSize=auto&labelColor=%23000000&color=%23000000">
 </a>
 <!--DataBase-->
-<h2>Databases</h2>
+<h3>Databases</h3>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
           <img alt="Static Badge" src="https://img.shields.io/badge/mongodb-white?style=for-the-badge&logo=mongodb&logoColor=white&logoSize=auto&labelColor=%2347A248&color=%2347A248">
 </a>
@@ -85,7 +85,7 @@
           <img alt="Static Badge" src="https://img.shields.io/badge/postgresql-white?style=for-the-badge&logo=postgresql&logoColor=white&logoSize=auto&labelColor=%234169E1&color=%234169E1">
 </a>
 <!--Cloud-->
-<h2>Cloud</h2>
+<h3>Cloud</h3>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
           <img alt="Static Badge" src="https://img.shields.io/badge/amazon-white?style=for-the-badge&logo=amazon&logoColor=white&logoSize=auto&labelColor=%23FF9900&color=%23FF9900">
 </a>
@@ -96,7 +96,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/firebase-white?style=for-the-badge&logo=firebase&logoColor=white&logoSize=auto&labelColor=%23DD2C00&color=%23DD2C00">
 </a>
 <!--CI-CD-->
-<h2>CI & CD</h2>
+<h3>CI & CD</h3>
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
           <img alt="Static Badge" src="https://img.shields.io/badge/jenkins-white?style=for-the-badge&logo=jenkins&logoColor=white&logoSize=auto&labelColor=%23D24939&color=%23D24939">
 </a>
@@ -107,12 +107,12 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/argocd-white?style=for-the-badge&logo=argo&logoColor=white&logoSize=auto&labelColor=%23EF7B4D&color=%23EF7B4D">
 </a>
 <!--Containerization-->
-<h2>Containerization</h2>
+<h3>Containerization</h3>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
           <img alt="Static Badge" src="https://img.shields.io/badge/docker-white?style=for-the-badge&logo=docker&logoColor=white&logoSize=auto&labelColor=%232496ED&color=%232496ED">
 </a>
 <!--Orchestration-->
-<h2>Orchestration</h2>
+<h3>Orchestration</h3>
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
           <img alt="Static Badge" src="https://img.shields.io/badge/kubernetes-white?style=for-the-badge&logo=kubernetes&logoColor=white&logoSize=auto&labelColor=%23326CE5&color=%23326CE5">
 </a>
@@ -122,8 +122,11 @@
 <a href="https://www.golinuxcloud.com/ansible-tutorial" target="_blank" rel="noreferrer">
   <img alt="Static Badge" src="https://img.shields.io/badge/ansible-white?style=for-the-badge&logo=ansible&logoColor=white&logoSize=auto&labelColor=%23EE0000&color=%23EE0000">
 </a>
+<a href="https://developer.hashicorp.com/terraform" target="_blank" rel="noreferrer">
+  <img alt="Static Badge" src="https://img.shields.io/badge/terraform-white?style=for-the-badge&logo=terraform&logoColor=white&logoSize=auto&labelColor=%23844FBA&color=%23844FBA">
+</a>
 <!--Monitoring-->
-<h2>Monitoring</h2>
+<h3>Monitoring</h3>
 <a href="https://grafana.com" target="_blank" rel="noreferrer">
           <img alt="Static Badge" src="https://img.shields.io/badge/grafana-white?style=for-the-badge&logo=grafana&logoColor=white&logoSize=auto&labelColor=%23F46800&color=%23F46800">
 </a>
