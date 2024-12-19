@@ -107,7 +107,11 @@
           <img alt="Static Badge" src="https://img.shields.io/badge/react-white?style=for-the-badge&logo=react&logoColor=white&logoSize=auto&labelColor=%2361DAFB&color=%2361DAFB">
         </a>
       </td>
-      <td></td>
+      <td>
+        <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+          <img alt="Static Badge" src="https://img.shields.io/badge/python-white?style=for-the-badge&logo=python&logoColor=white&logoSize=auto&labelColor=%233776AB&color=%233776AB">
+        </a>
+      </td>
       <td></td>
       <td>
         <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
