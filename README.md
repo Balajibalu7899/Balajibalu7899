@@ -43,7 +43,7 @@
       </td>
       <td>
         <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+          <img alt="Static Badge" src="https://img.shields.io/badge/node-white?style=for-the-badge&logo=nodedotjs&logoColor=white&logoSize=auto&labelColor=%235FA04E&color=%235FA04E">
         </a>
       </td>
       <td>
