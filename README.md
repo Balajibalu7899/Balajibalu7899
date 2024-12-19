@@ -104,7 +104,7 @@
     <tr>
       <td>
         <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+          <img alt="Static Badge" src="https://img.shields.io/badge/react-white?style=for-the-badge&logo=react&logoColor=white&logoSize=auto&labelColor=%2361DAFB&color=%2361DAFB">
         </a>
       </td>
       <td></td>
