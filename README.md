@@ -136,7 +136,7 @@
          <img alt="Static Badge" src="https://img.shields.io/badge/newrelic-white?style=for-the-badge&logo=newrelic&logoColor=white&logoSize=auto&labelColor=%231CE783&color=%231CE783">
 </a>
 <br>
-<img src="assets/mostusedlanguages.png" alt="Most Used Languages" />
+<img src="assets/mostusedlanguages.png" alt="Most Used Languages"/>
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
