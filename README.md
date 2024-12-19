@@ -1,4 +1,4 @@
-![MasterHead](assets/Github Dashboard.png)
+![MasterHead](assets/Github%20Dashboard.png)
 
 <h1 align="center">Hi fellow Coders 👋, I'm Balaji Gollapalli Venkataswamy Reddy</h1>
 <h3 align="center">A New York-based full-stack developer specializing in responsive front-ends, robust back-ends, and scalable DevOps solutions</h3>
