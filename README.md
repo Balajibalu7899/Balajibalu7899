@@ -65,7 +65,7 @@
       </td>
       <td>
         <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+          <img alt="Static Badge" src="https://img.shields.io/badge/express-white?style=for-the-badge&logo=express&logoColor=white&logoSize=auto&labelColor=%23000000&color=%23000000">
         </a>
       </td>
       <td>
