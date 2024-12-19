@@ -25,119 +25,121 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=balajibalu7899" alt="balajibalu7899" /></a> </p>
 <br>
 <h3 align="left">Teach Stack</h3>
-<table>
-  <thead>
-    <tr>
-      <th>Front-End</th>
-      <th>Back-End</th>
-      <th>Databases</th>
-      <th>Cloud & DevOps</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://www.java.com" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-        </a>
-      </td>
-      <td></td>
-      <td></td>
-      <td>
-        <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-        </a>
-      </td>
-      <td></td>
-      <td></td>
-      <td>
-        <a href="https://grafana.com" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
+<!--UI-->
+<h2>UI/UX</h2>
+<a href="https://developer.adobe.com/xd/uxp/develop/tutorials/" target="_blank" rel="noreferrer">
+  <img alt="Static Badge" src="https://img.shields.io/badge/adobexd-white?style=for-the-badge&logo=adobexd&logoColor=white&logoSize=auto&labelColor=%23FF61F6&color=%23FF61F6">
+</a>
+<a href="https://help.figma.com/hc/en-us/categories/360002051613-Get-started" target="_blank" rel="noreferrer">
+  <img alt="Static Badge" src="https://img.shields.io/badge/figma-white?style=for-the-badge&logo=figma&logoColor=white&logoSize=auto&labelColor=%23F24E1E&color=%23F24E1E">
+</a>
+<a href="https://developer.adobe.com/xd/uxp/develop/tutorials/" target="_blank" rel="noreferrer">
+  <img alt="Static Badge" src="https://img.shields.io/badge/illustrator-white?style=for-the-badge&logo=adobeillustrator&logoColor=white&logoSize=auto&labelColor=%23FF9A00&color=%23FF9A00">
+</a>
+<a href="https://help.rive.app/runtimes/overview/react" target="_blank" rel="noreferrer">
+  <img alt="Static Badge" src="https://img.shields.io/badge/rive-white?style=for-the-badge&logo=rive&logoColor=white&logoSize=auto&labelColor=%231D1D1D&color=%231D1D1D">
+</a>
+<!--Front-End-->
+<h2>Front-End</h2>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+          <img alt="Static Badge" src="https://img.shields.io/badge/css-white?style=for-the-badge&logo=css3&logoColor=white&logoSize=auto&labelColor=%231572B6&color=%231572B6">
+</a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+        <img alt="Static Badge" src="https://img.shields.io/badge/html-white?style=for-the-badge&logo=html5&logoColor=white&logoSize=auto&labelColor=%23E34F26&color=%23E34F26">
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+          <img alt="Static Badge" src="https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript&logoColor=black&logoSize=auto&labelColor=%23FFE135&color=%23FFE135">
+</a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+          <img alt="Static Badge" src="https://img.shields.io/badge/react-white?style=for-the-badge&logo=react&logoColor=white&logoSize=auto&labelColor=%2361DAFB&color=%2361DAFB">
+</a>
+<a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+          <img alt="Static Badge" src="https://img.shields.io/badge/sass-white?style=for-the-badge&logo=sass&logoColor=white&logoSize=auto&labelColor=%23CC6699&color=%23CC6699">
+</a>
+<a href="[https://docs.flutter.dev](https://docs.flutter.dev/get-started/install)" target="_blank" rel="noreferrer">
+          <img alt="Static Badge" src="https://img.shields.io/badge/flutter-white?style=for-the-badge&logo=flutter&logoColor=white&logoSize=auto&labelColor=%2302569B&color=%2302569B">
+</a>
+<!--Back-End-->
+<h2>Back-End</h2>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer">
+          <img alt="Static Badge" src="https://img.shields.io/badge/node-white?style=for-the-badge&logo=nodedotjs&logoColor=white&logoSize=auto&labelColor=%235FA04E&color=%235FA04E">
+</a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer">
+          <img alt="Static Badge" src="https://img.shields.io/badge/express-white?style=for-the-badge&logo=express&logoColor=white&logoSize=auto&labelColor=%23000000&color=%23000000">
+</a>
+<a href="https://docs.python.org/3/tutorial/index.html" target="_blank" rel="noreferrer">
+  <img alt="Static Badge" src="https://img.shields.io/badge/python-white?style=for-the-badge&logo=python&logoColor=white&logoSize=auto&labelColor=%233776AB&color=%233776AB">
+</a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer">
+          <img alt="Static Badge" src="https://img.shields.io/badge/java-white?style=for-the-badge&logo=openjdk&logoColor=white&logoSize=auto&labelColor=%23000000&color=%23000000">
+</a>
+<!--DataBase-->
+<h2>Databases</h2>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+          <img alt="Static Badge" src="https://img.shields.io/badge/mongodb-white?style=for-the-badge&logo=mongodb&logoColor=white&logoSize=auto&labelColor=%2347A248&color=%2347A248">
+</a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+          <img alt="Static Badge" src="https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql&logoColor=white&logoSize=auto&labelColor=%234479A1&color=%234479A1">
+</a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+          <img alt="Static Badge" src="https://img.shields.io/badge/postgresql-white?style=for-the-badge&logo=postgresql&logoColor=white&logoSize=auto&labelColor=%234169E1&color=%234169E1">
+</a>
+<!--Cloud-->
+<h2>Cloud</h2>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+          <img alt="Static Badge" src="https://img.shields.io/badge/amazon-white?style=for-the-badge&logo=amazon&logoColor=white&logoSize=auto&labelColor=%23FF9900&color=%23FF9900">
+</a>
+<a href="https://cloud.google.com" target="_blank" rel="noreferrer">
+  <img alt="Static Badge" src="https://img.shields.io/badge/google-white?style=for-the-badge&logo=google&logoColor=white&logoSize=auto&labelColor=%234285F4&color=%234285F4">
+</a>
+<a src="https://firebase.google.com/docs/web/setup" target="_blank" rel="noreferrer">
+  <img alt="Static Badge" src="https://img.shields.io/badge/firebase-white?style=for-the-badge&logo=firebase&logoColor=white&logoSize=auto&labelColor=%23DD2C00&color=%23DD2C00">
+</a>
+<!--CI-CD-->
+<h2>CI & CD</h2>
+<a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
+          <img alt="Static Badge" src="https://img.shields.io/badge/jenkins-white?style=for-the-badge&logo=jenkins&logoColor=white&logoSize=auto&labelColor=%23D24939&color=%23D24939">
+</a>
+<a href="https://docs.github.com/en/actions" target="_blank" rel="noreferrer">
+  <img alt="Static Badge" src="https://img.shields.io/badge/githubactions-white?style=for-the-badge&logo=githubactions&logoColor=white&logoSize=auto&labelColor=%232088FF&color=%232088FF">
+</a>
+<a href="https://argo-cd.readthedocs.io/en/stable/" target="_blank" rel="noreferrer">
+  <img alt="Static Badge" src="https://img.shields.io/badge/argocd-white?style=for-the-badge&logo=argo&logoColor=white&logoSize=auto&labelColor=%23EF7B4D&color=%23EF7B4D">
+</a>
+<!--Containerization-->
+<h2>Containerization</h2>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+          <img alt="Static Badge" src="https://img.shields.io/badge/docker-white?style=for-the-badge&logo=docker&logoColor=white&logoSize=auto&labelColor=%232496ED&color=%232496ED">
+</a>
+<!--Orchestration-->
+<h2>Orchestration</h2>
+<a href="https://kubernetes.io" target="_blank" rel="noreferrer">
+          <img alt="Static Badge" src="https://img.shields.io/badge/kubernetes-white?style=for-the-badge&logo=kubernetes&logoColor=white&logoSize=auto&labelColor=%23326CE5&color=%23326CE5">
+</a>
+<a href="https://docs.aws.amazon.com/eks/latest/userguide/getting-started.html" target="_blank" rel="noreferrer">
+  <img alt="Static Badge" src="https://img.shields.io/badge/amazoneks-white?style=for-the-badge&logo=amazoneks&logoColor=white&logoSize=auto&labelColor=%23FF9900&color=%23FF9900">
+</a>
+<a href="https://www.golinuxcloud.com/ansible-tutorial" target="_blank" rel="noreferrer">
+  <img alt="Static Badge" src="https://img.shields.io/badge/ansible-white?style=for-the-badge&logo=ansible&logoColor=white&logoSize=auto&labelColor=%23EE0000&color=%23EE0000">
+</a>
+<!--Monitoring-->
+<h2>Monitoring</h2>
+<a href="https://grafana.com" target="_blank" rel="noreferrer">
+          <img alt="Static Badge" src="https://img.shields.io/badge/grafana-white?style=for-the-badge&logo=grafana&logoColor=white&logoSize=auto&labelColor=%23F46800&color=%23F46800">
+</a>
+<a href="https://prometheus.io/docs/introduction/overview/" target="_blank" rel="noreferrer">
+          <img alt="Static Badge" src="https://img.shields.io/badge/prometheus-white?style=for-the-badge&logo=prometheus&logoColor=white&logoSize=auto&labelColor=%23E6522C&color=%23E6522C">
+</a>
+<a href="https://docs.newrelic.com/" target="_blank" rel="noreferrer">
+         <img alt="Static Badge" src="https://img.shields.io/badge/newrelic-white?style=for-the-badge&logo=newrelic&logoColor=white&logoSize=auto&labelColor=%231CE783&color=%231CE783">
+</a>
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/balaji-g-v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="balaji g v" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/b03js7899gv_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="b03js7899gv_21" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/balaji-g-v" target="blank">
+    <img alt="Static Badge" src="https://img.shields.io/badge/linkdin-white?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=auto&labelColor=%230A66C2&color=%230A66C2">
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:balajigv.inbox@gmail.com" target="_blank">
-    <img align="center" src="" alt="Gmail" height="30" width="40" />
+    <img alt="Static Badge" src="https://img.shields.io/badge/gmail-white?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto&labelColor=%23EA4335&color=%23EA4335">
   </a>
 </p>
