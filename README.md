@@ -122,6 +122,9 @@
 <a href="https://www.golinuxcloud.com/ansible-tutorial" target="_blank" rel="noreferrer">
   <img alt="Static Badge" src="https://img.shields.io/badge/ansible-white?style=for-the-badge&logo=ansible&logoColor=white&logoSize=auto&labelColor=%23EE0000&color=%23EE0000">
 </a>
+<a href="https://developer.hashicorp.com/terraform" target="_blank" rel="noreferrer">
+  <img alt="Static Badge" src="https://img.shields.io/badge/terraform-white?style=for-the-badge&logo=terraform&logoColor=white&logoSize=auto&labelColor=%23844FBA&color=%23844FBA">
+</a>
 <!--Monitoring-->
 <h3>Monitoring</h3>
 <a href="https://grafana.com" target="_blank" rel="noreferrer">
