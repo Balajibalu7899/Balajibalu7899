@@ -59,7 +59,8 @@
     </tr>
     <tr>
       <td>
-        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg](https://img.shields.io/badge/html-white?style=for-the-badge&logo=html5&logoColor=white&logoSize=auto&labelColor=%23E34F26&color=%23E34F26)" alt="html5" width="40" height="40"/>
+        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+        <img alt="Static Badge" src="https://img.shields.io/badge/html-white?style=for-the-badge&logo=html5&logoColor=white&logoSize=auto&labelColor=%23E34F26&color=%23E34F26">
         </a>
       </td>
       <td>
