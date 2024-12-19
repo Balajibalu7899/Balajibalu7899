@@ -125,7 +125,7 @@
 <!--Monitoring-->
 <h2>Monitoring</h2>
 <a href="https://grafana.com" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
+          <img alt="Static Badge" src="https://img.shields.io/badge/grafana-white?style=for-the-badge&logo=grafana&logoColor=white&logoSize=auto&labelColor=%23F46800&color=%23F46800">
 </a>
 <a href="https://prometheus.io/docs/introduction/overview/" target="_blank" rel="noreferrer">
           <img alt="Static Badge" src="https://img.shields.io/badge/prometheus-white?style=for-the-badge&logo=prometheus&logoColor=white&logoSize=auto&labelColor=%23E6522C&color=%23E6522C">
