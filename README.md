@@ -163,6 +163,26 @@
     </tr>
   </tbody>
 </table>
+<article>
+   <a href="https://github.com/Balajibalu7899">
+     <img 
+    src="assets/mostusedlanguages.png"
+    alt="My GitHub Stats"
+    width="413"
+    height="394"
+  />
+</a>
+</article>
+<article>
+   <a href="https://github.com/Balajibalu7899">
+     <img 
+    src="assets/mostusedlanguages.png"
+    alt="My GitHub Stats"
+    width="413"
+    height="394"
+  />
+</a>
+</article>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/balaji-g-v" target="blank">
