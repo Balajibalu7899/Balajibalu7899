@@ -144,6 +144,8 @@
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Balajibalu7899&show_icons=true&title_color=00A89D&icon_color=00A89D&text_color=ffffff&bg_color=0E1116" 
     alt="My GitHub Stats"
+    width="413"
+    height="394"
   />
 </a>
 <h3 align="left">Connect with me:</h3>
