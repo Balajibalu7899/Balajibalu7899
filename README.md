@@ -20,6 +20,20 @@
     </td>
   </tr>
 </table>
+<article>
+      <ul style="list-style: none; padding: 0; margin: 0;">
+        <li>🔭 I’m Doing Masters at State University of New York at Binghamton</li>
+        <li>👯 Looking for collaborate on Web Development projects using React</li>
+        <li>👨‍💻 Have a look at my Projects at: https://github.com/Balajibalu7899?tab=repositories</li>
+        <li>💬 Ask me about: React, NodeJs, ExpressJS,Kubernetes,Aws,Firebase</li>
+        <li>📫 Mail Me at: <strong>balajigv.inbox@gmail.com</strong></li>
+        <li>⚡I love experimenting with new technologies and tools, always on the lookout for ways to improve my development workflow.</li>
+      </ul>
+</article>
+<article>
+ <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" 
+           alt="Coder GIF" width="300">
+</article>
 <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=balajibalu7899" alt="balajibalu7899" /></a> </p>
 <br>
