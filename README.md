@@ -161,7 +161,7 @@
 <p align="left">
   <a href="https://linkedin.com/in/balaji-g-v" target="blank">
     <img alt="Static Badge" src="https://img.shields.io/badge/linkdin-white?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=auto&labelColor=%230A66C2&color=%230A66C2">
-  </a>&nbsp;&nbsp;&nbsp;
+  </a>
   <a href="mailto:balajigv.inbox@gmail.com" target="_blank">
     <img alt="Static Badge" src="https://img.shields.io/badge/gmail-white?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto&labelColor=%23EA4335&color=%23EA4335">
   </a>
