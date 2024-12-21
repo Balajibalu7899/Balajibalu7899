@@ -136,11 +136,11 @@
          <img alt="Static Badge" src="https://img.shields.io/badge/newrelic-white?style=for-the-badge&logo=newrelic&logoColor=white&logoSize=auto&labelColor=%231CE783&color=%231CE783">
 </a>
 <br>
-<br>
-<br>
-<img src="assets/mostusedlanguages.png" alt="Most Used Languages"/>
-<br>
-<a href="https://github.com/Balajibalu7899">
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github.com/Balajibalu7899">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Balajibalu7899&show_icons=true&title_color=00A89D&icon_color=00A89D&text_color=ffffff&bg_color=0E1116" 
     alt="My GitHub Stats"
@@ -148,6 +148,20 @@
     height="394"
   />
 </a>
+      </td>
+      <td>
+        <a href="https://github.com/Balajibalu7899">
+     <img 
+    src="assets/mostusedlanguages.png"
+    alt="My GitHub Stats"
+    width="413"
+    height="394"
+  />
+</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/balaji-g-v" target="blank">
