@@ -136,7 +136,8 @@
          <img alt="Static Badge" src="https://img.shields.io/badge/newrelic-white?style=for-the-badge&logo=newrelic&logoColor=white&logoSize=auto&labelColor=%231CE783&color=%231CE783">
 </a>
 <br>
-<table>
+<br>
+<table style="border: none; border-collapse: collapse;">
   <tbody>
     <tr>
       <td>
