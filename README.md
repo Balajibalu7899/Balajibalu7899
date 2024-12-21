@@ -1,6 +1,6 @@
 ![MasterHead](assets/GithubDashboard.png)
 
-<h3 align="center">A New York-based full-stack developer specializing in responsive front-ends, robust back-ends, and scalable DevOps solutions</h3>
+<h3 align="center">A New York-based Full-stack developer</h3>
 
 <table style="border: 1px solid rgba(0, 0, 0, 0.1); border-radius: 10px; background-color: #f9f9f9; padding: 20px;">
   <tr>
