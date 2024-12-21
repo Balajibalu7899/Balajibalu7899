@@ -140,6 +140,7 @@
 <br>
 <img src="assets/mostusedlanguages.png" alt="Most Used Languages"/>
 <br>
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Balajibalu7899&show_icons=true&theme=radical)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/balaji-g-v" target="blank">
