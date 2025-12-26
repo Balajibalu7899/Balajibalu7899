@@ -1,4 +1,4 @@
-![MasterHead](assets/GithubDashboard.png)
+![MasterHead](assets/Dashboard.png)
 
 <h3 align="center">A New York based Full-stack developer</h3>
 
